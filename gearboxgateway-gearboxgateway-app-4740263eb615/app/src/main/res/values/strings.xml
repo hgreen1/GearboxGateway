@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GearboxGateway</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hub">HubActivity</string>
+    <string name="title_activity_diag_load">DiagLoadActivity</string>
+    <string name="title_activity_car_stat">CarStatActivity</string>
+    <string name="title_activity_journal">JournalActivity</string>
+    <string name="title_activity_btlist">BTListActivity</string>
+    <string name="title_activity_btcar_info">BTCarInfoActivity</string>
+</resources>
